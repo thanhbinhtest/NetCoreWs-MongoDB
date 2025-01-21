@@ -61,5 +61,5 @@ Dự án này là một API quản lý cửa hàng sách sử dụng ASP.NET Cor
 - **API Hoạt Động**: Tất cả các endpoint API đều hoạt động như mong đợi, cho phép quản lý sách từ cơ sở dữ liệu MongoDB thông qua các phương thức GET, POST, PUT, DELETE.
   ![Screenshot](images/Screenshot%202025-01-21%20113154.png)
 
-- **Tương tác cơ sở dữ liệu **: Kết nối thành công với MongoDB để thực hiện các thao tác.
+- **Tương tác cơ sở dữ liệu**: Kết nối thành công với MongoDB để thực hiện các thao tác.
 - **Swagger**:  Cho phép thử nghiệm các API trực tiếp trên trình duyệt, giúp việc kiểm tra và phát triển thuận tiện hơn với người dùng.
