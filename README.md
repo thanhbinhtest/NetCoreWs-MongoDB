@@ -1,6 +1,6 @@
-# Book Store API Project
+# Mô tả kết quả đạt được
 
-## Mô tả Dự án
+## Tổng quan Dự án
 
 Dự án này là một API quản lý cửa hàng sách sử dụng ASP.NET Core và MongoDB. Dự án cung cấp các endpoint để thực hiện các thao tác CRUD (Create, Read, Update, Delete) đối với các sách trong cơ sở dữ liệu MongoDB. Các tính năng chính của API bao gồm:
 
