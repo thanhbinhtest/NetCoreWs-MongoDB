@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\bookstoredatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|c:\\users\\admin\\source\\repos\\sampleapi\\sampleapi\\sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{456D7110-4E3A-4520-8A2F-1F14E05EFD4A}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\sampleapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Services\\BookService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:02:59.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:10:25.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Models\\Book.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:21:07.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Program.cs",
+              "RelativeToolTip": "SampleAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:29:43.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\appsettings.json",
+              "RelativeToolTip": "SampleAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T03:16:01.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookStoreDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "RelativeToolTip": "SampleAPI\\Models\\BookStoreDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T02:27:24.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:30:43.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "SampleAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T03:28:19.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SampleAPI.http",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\SampleAPI.http",
+              "RelativeDocumentMoniker": "SampleAPI\\SampleAPI.http",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\SampleAPI\\SampleAPI\\SampleAPI.http",
+              "RelativeToolTip": "SampleAPI\\SampleAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-21T02:29:52.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
